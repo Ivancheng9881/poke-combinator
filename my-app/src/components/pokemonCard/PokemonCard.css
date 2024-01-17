@@ -1,0 +1,16 @@
+.spriteContainer {
+    width: 75px;
+    height: 75px;
+    border: 1px solid black;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.spriteImage {
+    width: 50%;
+    height: 50%;
+}
